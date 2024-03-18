@@ -1,1 +1,4 @@
 archival_version = "0.4.7"
+site_url = "https://test.onarchival.dev"
+objects = "objects"
+pages = "pages"
